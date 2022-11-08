@@ -1,3 +1,27 @@
+/* started Header */
+.header {
+    display: flex;
+}
+.ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.logoimage {
+    margin-left: 132px;
+    margin-top: 64px;
+}
+.nav {
+    margin-top: 85px;
+    margin-left: 880px;
+}
+.port {
+    margin: 0px 20px;
+}
+.blog {
+    margin: 0px 20px;
+}
+/* started setcion2 */
 .box1 {
     text-align: center;
     margin: 0 auto;
