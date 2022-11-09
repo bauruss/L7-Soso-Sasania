@@ -21,6 +21,46 @@
 .blog {
     margin: 0px 20px;
 }
+/* started section 1 */
+.blue-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3D37F1;
+    width: 263.77px;
+    height: 76.77px;
+    border-radius: 38px;
+}
+.blue-box p {
+    font-size: 23px;
+    margin-left: 30.7px;
+}
+.left-box h2 {
+    font-size: 78px;
+    color: #534D4D;
+    margin-top: 277px;
+}
+.left-box h3 {
+    font-size: 78px;
+    color: #534D4D;
+    margin-bottom: 39px;
+}
+.left-box h5 {
+    font-size: 22px;
+    height: 103px;
+    margin-bottom: 81.5px;
+}
+.general-div   {
+    margin-left: 130px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 90px;
+}
+.right-box {
+    margin-top: 261px;
+    margin-right: 80px;
+}
 /* started setcion2 */
 .box1 {
     text-align: center;
